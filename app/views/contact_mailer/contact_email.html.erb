@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>Recibiste un mensaje de: <%= @mensaje.nombre %></h1>
+    <h1>Mail de la persona: <%= @mensaje.email %></h1>
+    <h1>Contenido</h1>
+    <p>
+      <%= @mensaje.contenido_mensaje %>.<br>
+    </p>
+    <p>Ten un buen día!</p>
+  </body>
+</html>

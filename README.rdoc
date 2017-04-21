@@ -1,0 +1,9 @@
+== Dual Designers
+
+Pagina web principal de Dual Designers
+
+Especificaciones tecnicas:
+
+* Version de ruby: ruby 2.2.1p85
+
+* Version de Ruby on Rails: 4.2.1
